@@ -1,0 +1,27 @@
+.course {
+  color: #E0622B;
+  text-transform: uppercase;
+  font: normal 40px/40px "tiepolo-bold", serif;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+
+.col {
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+}
+
+.dish {
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+}
+
+.description {
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+}
+
+.price {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
