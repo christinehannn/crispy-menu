@@ -25,3 +25,7 @@
   font-family: "Open Sans", sans-serif;
   text-align: right;
 }
+
+#menu-container {
+  max-width: 850px;
+}
