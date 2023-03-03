@@ -22,6 +22,7 @@ body {
 
 .description,
 .price {
+  border-bottom-style: dashed;
   color: #7A5E48;
   font-family: "Open Sans", sans-serif;
   font-size: 17px;
