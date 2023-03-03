@@ -14,20 +14,24 @@
 }
 
 .dish {
-  color: #7A5E48;
+  color: #593a26;
   font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
   text-align: left;
 }
 
 .description {
   color: #7A5E48;
   font-family: "Open Sans", sans-serif;
+  font-size: 16px;
   text-align: left;
 }
 
 .price {
   color: #7A5E48;
   font-family: "Open Sans", sans-serif;
+  font-size: 16px;
   text-align: right;
 }
 
