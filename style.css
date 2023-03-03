@@ -32,6 +32,10 @@ body {
   text-align: left;
 }
 
+.menu-item {
+  padding-bottom: 50px;
+}
+
 .price {
   text-align: right;
 }
