@@ -22,12 +22,16 @@ body {
 
 .description,
 .price {
-  border-bottom-style: dashed;
   color: #7A5E48;
   font-family: "Open Sans", sans-serif;
   font-size: 17px;
   font-weight: 300;
   letter-spacing: 1px;
+}
+
+.border-bottom-dashed {
+  border-bottom: dashed 1px rgba(201, 173, 154, 0.5);
+  padding-bottom: 50px;
 }
 
 .description {
